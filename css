@@ -1,0 +1,45 @@
+*{
+ 
+}
+.titr{
+font-size: 16px;
+font-family: Homa;
+word-spacing: .1em;
+font-weight: bold;
+line-height: 1.6em;
+margin-top:5%;
+
+}
+
+.titr h3{
+font-style: italic;
+font-weight:100;
+
+}
+
+body{
+background-color: #aeefba;
+
+}
+
+.print{
+margin-top:20px;
+margin-right:20px;
+}
+
+table{
+align:center;
+background-color: #eee;
+color: #91f;
+width:auto;
+border-width:3px;
+border-style:outset;
+border-color:#53b;
+border-right-color: #111;
+border-left-color: #111;
+padding: 1.5px;
+padding-left:0;
+padding-right:0;
+margin-top:25px;
+margin-bottom:100px;
+}
