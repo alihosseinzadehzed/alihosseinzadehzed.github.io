@@ -1,0 +1,4 @@
+AuthName "Private Section, limited page by me"
+AuthType Basic
+AuthUserFile /.htpasswd
+Require valid-user 
